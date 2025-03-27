@@ -8,15 +8,29 @@ AutoSkale aims to become the industry-standard Kubernetes autoscaling analysis t
 
 ### 🔹 Phase 1: Core Features (Q1 - Q2 2025)
 
-✅ Kubernetes HPA & Cluster Autoscaler Monitoring✅ Real-time Metrics Collection (CPU, Memory, Requests)✅ Prometheus & Grafana Integration✅ Event Logging & Scaling History Visualization✅ Basic Alerting System (Webhook & Email)🔲 Role-Based Access Control (RBAC) for API Security🔲 Helm Chart Deployment
+- ✅ Kubernetes HPA & Cluster Autoscaler Monitoring
+- ✅ Real-time Metrics Collection (CPU, Memory, Requests)
+- ✅ Prometheus & Grafana Integration
+- ✅ Event Logging & Scaling History Visualization
+- ✅ Basic Alerting System (Webhook & Email)
+- 🔲 Role-Based Access Control (RBAC) for API Security
+- 🔲 Helm Chart Deployment
 
 ### 🔹 Phase 2: Advanced Monitoring & AI Enhancements (Q3 - Q4 2025)
 
-🔲 AI-Powered Autoscaling Recommendations🔲 Anomaly Detection in Scaling Behavior🔲 Predictive Scaling using Historical Data🔲 SLA-Based Scaling Configurations🔲 Multi-Cluster & Multi-Cloud Support
+- 🔲 AI-Powered Autoscaling Recommendations
+- 🔲 Anomaly Detection in Scaling Behavior
+- 🔲 Predictive Scaling using Historical Data
+- 🔲 SLA-Based Scaling Configurations
+- 🔲 Multi-Cluster & Multi-Cloud Support
 
 ### 🔹 Phase 3: Enterprise Readiness & CNCF Integration (2026)
 
-🔲 Kubernetes Operator for Dynamic Autoscaling🔲 Service Mesh Integration (Istio, Linkerd)🔲 CNCF Sandbox Proposal & Community Contributions🔲 Enterprise API & Plugin Ecosystem🔲 Compliance & Security Audits
+- 🔲 Kubernetes Operator for Dynamic Autoscaling
+- 🔲 Service Mesh Integration (Istio, Linkerd)
+- 🔲 CNCF Sandbox Proposal & Community Contributions
+- 🔲 Enterprise API & Plugin Ecosystem
+- 🔲 Compliance & Security Audits
 
 ## 📌 How to Contribute
 
