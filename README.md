@@ -48,7 +48,8 @@ AutoSkale is an intelligent Kubernetes autoscaling analysis tool designed to hel
 
 1. Clone the Repository
 
-``` git clone https://github.com/your-username/AutoSkale.git
+``` 
+git clone https://github.com/your-username/AutoSkale.git
 cd AutoSkale 
 ```
 
