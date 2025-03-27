@@ -6,6 +6,10 @@
 
 
 
+## Table of Contents  
+- [Overview](#Overview)  
+- [Key Features](#Key Features 🚀)  
+- [Features](#features)  
 
 ## **Overview**
 
@@ -82,11 +86,11 @@ For detailed upcoming features and milestones, check out our [ROADMAP.md](https:
 
 ## Contributing 🤝
 
-We welcome contributions! Please read our [CONTRIBUTING.md] for guidelines.
+We welcome contributions! Please read our [CONTRIBUTING.md](https://github.com/Aravindjeev/AutoSKale/blob/73976192dc3197b4a2e54a946557dcbd607e207e/CONTRIBUTING.md) for guidelines.
 
 ## License 📜
 
-This project is licensed under the Apache 2.0 License. See the LICENSE file for details.
+This project is licensed under the Apache 2.0 License. See the [LICENSE](https://github.com/Aravindjeev/AutoSKale/blob/73976192dc3197b4a2e54a946557dcbd607e207e/LICENSE) file for details.
 
 ## Community & Support 💬
 
