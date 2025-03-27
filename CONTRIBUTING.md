@@ -10,11 +10,11 @@ Please read and adhere to our Code of Conduct to maintain a welcoming and inclus
 
 ### 1. Reporting Bugs & Issues
 
-If you find a bug or have a feature request:
+- If you find a bug or have a feature request:
 
 Check the existing issues to see if it’s already reported.
 
-If not, create a new issue with:
+- If not, create a new issue with:
 
 1. Clear title & description
 
