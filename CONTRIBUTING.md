@@ -1,14 +1,14 @@
-Contributing to AutoSkale
+# Contributing to AutoSkale
 
 Thank you for your interest in contributing to AutoSkale! 🚀 Your contributions help improve the project and make Kubernetes autoscaling more efficient for the community.
 
-📜 Code of Conduct
+## 📜 Code of Conduct
 
 Please read and adhere to our Code of Conduct to maintain a welcoming and inclusive environment.
 
-🛠️ How to Contribute
+## 🛠️ How to Contribute
 
-1️⃣ Reporting Bugs & Issues
+1. Reporting Bugs & Issues
 
 If you find a bug or have a feature request:
 
@@ -24,27 +24,27 @@ Expected vs actual behavior
 
 Any logs or screenshots
 
-2️⃣ Fork & Clone the Repository
-
+2. Fork & Clone the Repository
+```
 git clone https://github.com/your-username/AutoSkale.git
 cd AutoSkale
 git checkout -b feature-branch
-
-3️⃣ Set Up the Development Environment
+```
+3. Set Up the Development Environment
 
 Install dependencies:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 Run tests to ensure everything works:
 
-pytest
+`pytest`
 
 (Optional) Deploy locally:
 
-python autoskale.py
+`python autoskale.py`
 
-4️⃣ Making Changes
+4. Making Changes
 
 Follow the project’s coding style (PEP8 for Python).
 
@@ -52,38 +52,39 @@ Document your changes in the code and update README.md if needed.
 
 Write unit tests for new features or bug fixes.
 
-5️⃣ Committing & Pushing Changes
+5. Committing & Pushing Changes
 
 Format commit messages in present tense and keep them descriptive:
 
+```
 git commit -m "Add support for custom HPA thresholds"
 git push origin feature-branch
-
+```
 Submit a Pull Request (PR) to the main branch.
 
 The PR will be reviewed, and once approved, merged!
 
-🧪 Testing & CI/CD
+## 🧪 Testing & CI/CD
 
 We use GitHub Actions for automated testing.
 
 Run tests locally before pushing:
 
-pytest --cov=src
+`pytest --cov=src`
 
-🔥 Roadmap & Feature Requests
+## 🔥 Roadmap & Feature Requests
 
 Check the ROADMAP.md for upcoming features. Want to propose an idea? Open a Discussion!
 
-🤝 Community & Support
+## 🤝 Community & Support
 
 Slack: Join the community
 
 GitHub Discussions: Start or join conversations.
 
-🔐 Security Policy
+## 🔐 Security Policy
 
 If you find a security vulnerability, please report it responsibly by contacting the maintainers.
 
-💡 AutoSkale – Scaling Kubernetes Smarter!
+## 💡 AutoSkale – Scaling Kubernetes Smarter!
 
