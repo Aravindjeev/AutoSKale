@@ -10,39 +10,39 @@ Please read and adhere to our Code of Conduct to maintain a welcoming and inclus
 
 ### 1. Reporting Bugs & Issues
 
-    If you find a bug or have a feature request:
+If you find a bug or have a feature request:
 
-    Check the existing issues to see if it’s already reported.
+Check the existing issues to see if it’s already reported.
 
-    If not, create a new issue with:
+If not, create a new issue with:
 
-    Clear title & description
+1. Clear title & description
 
-    Steps to reproduce
+2. Steps to reproduce
 
-    Expected vs actual behavior
+3. Expected vs actual behavior
 
-    Any logs or screenshots
+4. Any logs or screenshots
 
 ### 2. Fork & Clone the Repository
-    ```
-    git clone https://github.com/your-username/AutoSkale.git
-    cd AutoSkale
-    git checkout -b feature-branch
-    ```
+```
+git clone https://github.com/your-username/AutoSkale.git
+cd AutoSkale
+git checkout -b feature-branch
+```
 ### 3. Set Up the Development Environment
 
-    Install dependencies:
+Install dependencies:
 
-    `pip install -r requirements.txt`
+`pip install -r requirements.txt`
 
-    Run tests to ensure everything works:
+Run tests to ensure everything works:
 
-    `pytest`
+`pytest`
 
-    (Optional) Deploy locally:
+(Optional) Deploy locally:
 
-    `python autoskale.py`
+`python autoskale.py`
 
 ### 4. Making Changes
 
