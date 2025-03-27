@@ -8,43 +8,43 @@ Please read and adhere to our Code of Conduct to maintain a welcoming and inclus
 
 ## 🛠️ How to Contribute
 
-1. Reporting Bugs & Issues
+### 1. Reporting Bugs & Issues
 
-If you find a bug or have a feature request:
+    If you find a bug or have a feature request:
 
-Check the existing issues to see if it’s already reported.
+    Check the existing issues to see if it’s already reported.
 
-If not, create a new issue with:
+    If not, create a new issue with:
 
-Clear title & description
+    Clear title & description
 
-Steps to reproduce
+    Steps to reproduce
 
-Expected vs actual behavior
+    Expected vs actual behavior
 
-Any logs or screenshots
+    Any logs or screenshots
 
-2. Fork & Clone the Repository
-```
-git clone https://github.com/your-username/AutoSkale.git
-cd AutoSkale
-git checkout -b feature-branch
-```
-3. Set Up the Development Environment
+### 2. Fork & Clone the Repository
+    ```
+    git clone https://github.com/your-username/AutoSkale.git
+    cd AutoSkale
+    git checkout -b feature-branch
+    ```
+### 3. Set Up the Development Environment
 
-Install dependencies:
+    Install dependencies:
 
-`pip install -r requirements.txt`
+    `pip install -r requirements.txt`
 
-Run tests to ensure everything works:
+    Run tests to ensure everything works:
 
-`pytest`
+    `pytest`
 
-(Optional) Deploy locally:
+    (Optional) Deploy locally:
 
-`python autoskale.py`
+    `python autoskale.py`
 
-4. Making Changes
+### 4. Making Changes
 
 Follow the project’s coding style (PEP8 for Python).
 
@@ -52,7 +52,7 @@ Document your changes in the code and update README.md if needed.
 
 Write unit tests for new features or bug fixes.
 
-5. Committing & Pushing Changes
+### 5. Committing & Pushing Changes
 
 Format commit messages in present tense and keep them descriptive:
 
