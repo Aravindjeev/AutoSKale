@@ -1,48 +1,48 @@
-Contributor Code of Conduct
+# Contributor Code of Conduct
 
-📜 Our Pledge
+## 📜 Our Pledge
 
 We, as members, contributors, and leaders of AutoSkale, pledge to make participation in our project and community a harassment-free experience for everyone, regardless of age, gender identity, race, disability, experience, or any other personal attributes. We commit to fostering a respectful, inclusive, and welcoming environment.
 
-🏛️ Our Standards
+## 🏛️ Our Standards
 
-Examples of positive behavior that contribute to a healthy environment:
+### Examples of positive behavior that contribute to a healthy environment:
 
-Being respectful and inclusive in discussions.
+- Being respectful and inclusive in discussions.
 
-Welcoming new contributors and offering help when needed.
+- Welcoming new contributors and offering help when needed.
 
-Accepting constructive criticism with an open mind.
+- Accepting constructive criticism with an open mind.
 
-Showing empathy towards other members.
+- Showing empathy towards other members.
 
-Examples of unacceptable behavior:
+### Examples of unacceptable behavior:
 
-Harassment, discrimination, or personal attacks.
+- Harassment, discrimination, or personal attacks.
 
-Use of derogatory language or imagery.
+- Use of derogatory language or imagery.
 
-Trolling, insults, or any form of disruption.
+- Trolling, insults, or any form of disruption.
 
-Publishing private information without consent.
+- Publishing private information without consent.
 
-📢 Reporting Violations
+## 📢 Reporting Violations
 
 If you experience or witness any Code of Conduct violations, please report them via email@example.com or open a confidential issue. The core team will review all reports and take necessary actions.
 
-⚖️ Enforcement
+## ⚖️ Enforcement
 
-Project maintainers will:
+### Project maintainers will:
 
-Investigate reports fairly and promptly.
+- Investigate reports fairly and promptly.
 
-Take appropriate action (warnings, removal, or bans) when necessary.
+- Take appropriate action (warnings, removal, or bans) when necessary.
 
-Protect confidentiality of reporters.
+- Protect confidentiality of reporters.
 
-🔗 Attribution
+## 🔗 Attribution
 
 This Code of Conduct is adapted from the Contributor Covenant, version 2.1.
 
-🌟 Together, we build an open and respectful community!
+**🌟 Together, we build an open and respectful community!**
 
