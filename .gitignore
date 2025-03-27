@@ -1,0 +1,54 @@
+# Python related
+__pycache__/
+*.py[cod]
+*.swp
+*.log
+*.sqlite3
+.venv/
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+.env
+.envrc
+*.secret
+*.key
+
+# Kubernetes & DevOps related
+*.kubeconfig
+*.tfstate
+*.tfstate.backup
+helm-chart/
+.kube/
+
+# Logs & temp files
+logs/
+*.log
+*.out
+*.bak
+*.tmp
+nohup.out
+.DS_Store
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.iml
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+__pycache__/
+
+# Docker
+.dockerignore
+*.tar
+docker-compose.override.yml
+
+# Node.js (if any frontend is added)
+node_modules/
+npm-debug.log
+yarn-error.log
