@@ -78,11 +78,11 @@ scaling:
 ```
 ## Roadmap 🛣️
 
-For detailed upcoming features and milestones, check out our ROADMAP.md.
+For detailed upcoming features and milestones, check out our [ROADMAP.md](https://github.com/Aravindjeev/AutoSKale/blob/ce0329446ca8b8547c27ca12e606fa5944a78356/ROADMAP.md).
 
 ## Contributing 🤝
 
-We welcome contributions! Please read our CONTRIBUTING.md for guidelines.
+We welcome contributions! Please read our [CONTRIBUTING.md] for guidelines.
 
 ## License 📜
 
