@@ -1,4 +1,4 @@
-AutoSkale - Intelligent Kubernetes Autoscaler Monitoring Tool
+AutoSkale - Intelligent Kubernetes Autoscaler Monitor
 
 
 
@@ -75,7 +75,7 @@ scaling:
 
 Roadmap 🛣️
 
-
+For detailed upcoming features and milestones, check out our ROADMAP.md.
 
 Contributing 🤝
 
